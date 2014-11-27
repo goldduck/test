@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://172.16.28.106:8080/server/57x57.png</string>
+					<string>http://162.16.28.106:8080/server/57x57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
